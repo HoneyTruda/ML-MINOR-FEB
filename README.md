@@ -4,7 +4,7 @@ In this project, we'll write an algorithm to classify whether images contain eit
 ### Data Description
 The folder "datasets" contain two sub-folder "Birman Cat Red" & "doberman dog breed" which contain images of cats and dog respectively.Each folder contains 40 images of each class.
 ### Data
-To download the Dataset click [here](https://drive.google.com/file/d/1Dv-HF10AUUA03AO_cQvar462eXawk0iQ/view?usp=sharing)
+To download the Dataset click [here](https://drive.google.com/drive/folders/17nBrUtNeGaF4ib75T-aqw_-DY5JLW9Hg?usp=sharing)
 ### Objective
 To build a machine learning classification model which classify whether images contain either a dog or a cat. 
 ### Necessary Libraries
