@@ -1,5 +1,5 @@
 # ML-MINOR-FEB
-This is a Machine Learning project for Machine Learning Internship offered by SmartKnower.
+This is a Machine Learning project for Machine Learning to detect cat and dog.
 In this project, we'll write an algorithm to classify whether images contain either a dog or a cat.  This is easy for humans, dogs, and cats but our computer will find it a bit more difficult.
 ### Data Description
 The folder "datasets" contain two sub-folder "Birman Cat Red" & "doberman dog breed" which contain images of cats and dog respectively.Each folder contains 40 images of each class.
